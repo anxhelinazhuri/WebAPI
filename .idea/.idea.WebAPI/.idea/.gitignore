@@ -1,0 +1,15 @@
+﻿# Default ignored files
+/shelf/
+/../../../../../../../../../../:\Users\User\Documents\Anxhi Folder\C# examples\WebAPI\bin\
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.WebAPI.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\User\Documents\Anxhi Folder\C# examples\WebAPI\.idea\.idea.WebAPI\.idea/dataSources/
+/../../../../../../../../../../:\Users\User\Documents\Anxhi Folder\C# examples\WebAPI\.idea\
+bin/
+# Editor-based HTTP Client requests
+/httpRequests/
